@@ -33,7 +33,7 @@ I scribble about tech sometimes! Check out:
 I built a pastry shop website partly because I’m obsessed with desserts—coding and sweets are my ultimate duo!
 
 ## Let’s Connect
-[Email: niharikapatil2306@gmail.com](mailto:niharikapatil2306@gmail.com)
+[niharikapatil2306@gmail.com](mailto:niharikapatil2306@gmail.com)
 
 ## What’s Next?
 I’m diving deeper into AI-driven solutions and dreaming up my next big project—stay tuned!
