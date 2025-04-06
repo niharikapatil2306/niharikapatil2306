@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hii, I’m Niharika Patil! 👋
 
-I’m a **Machine Learning enthusiast** and a **full-stack developer** pursuing an MSc in Machine Learning in Science at the University of Nottingham, UK. I love crafting **interactive, user-friendly applications**—from pastry shop websites to real-time chat apps and pixel-art study timers. My passion lies at the intersection of code, AI, and great user experiences.
+I’m a **Machine Learning enthusiast** and a **full-stack developer** pursuing an MSc in Machine Learning in Science at the University of Nottingham, UK. I love crafting **interactive, user-friendly applications**. My passion lies at the intersection of code, AI, and great user experiences.
 
 ## 🔧 What I Work With
 - **Languages**: JavaScript (ES6+), Python, Java, HTML/CSS
