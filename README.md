@@ -45,7 +45,7 @@ I built a pastry shop website partly because I’m obsessed with desserts—codi
   
 *MSc Machine Learning in Science • University of Nottingham*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=E91E63&center=true&vCenter=true&width=500&lines=Building+intelligent+applications;Crafting+seamless+user+experiences;Exploring+AI-driven+solutions;Protein+engineering+researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=5000&pause=1000&color=ffc0cb&center=true&vCenter=true&width=500&lines=Building+intelligent+applications;Crafting+seamless+user+experiences;Exploring+AI-driven+solutions;Protein+engineering+researcher" alt="Typing SVG" />
 
 </div>
 
@@ -57,11 +57,11 @@ Currently pursuing my **Master's in Machine Learning** while developing cutting-
 
 ## Current Research
 
-**ThermoStable RuBisCO Protein Engineering** *(May 2025 - Present)*
-- Developing diffusion-based thermophilic protein sequence generators
-- Created dataset of 24,000+ protein sequences with structural annotations
-- Achieved 70-90% confidence in structure-aware modeling for climate-resilient agriculture
-
+**ThermoStable RuBisCO Protein Engineering** *(May 2025 - Sept 2025)*
+- Developed the first systematic AI framework integrating diffusion models and evolutionary insights from extremophile proteins to generate thermostable RuBisCO variants for climate-adaptive agriculture
+- Assembled and curated high-quality structural datasets of over 36,000 annotated RuBisCO sequences and more than 17,000 extremophilic proteins, enabling robust multi-task learning for thermal stability, secondary structure accuracy, and sequence realism
+- Designed transformer-based architectures that incorporate atomic-level features and BLOSUM-guided evolutionary constraints, preserving hotosynthetic catalytic activity at elevated temperatures
+- Achieved significant performance: generated variants validated with COFACTOR and AlphaFold, showing TM-scores of 0.91–0.98, robust catalytic activity, and improved thermal resilience at 40–60°C
 ## Featured Projects
 
 ### Machine Learning & AI
@@ -147,9 +147,9 @@ Currently pursuing my **Master's in Machine Learning** while developing cutting-
 
 *Building the future through intelligent systems and elegant code*
 
-<img src="https://github-readme-stats.vercel.app/api?username=niharikapatil2306&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=e91e63&icon_color=e91e63&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=niharikapatil2306&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=ffc0cb&icon_color=ffc0cb&text_color=ffffff" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niharikapatil2306&layout=compact&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=e91e63&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niharikapatil2306&layout=compact&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=ffc0cb&text_color=ffffff" />
 
 </div>
 
