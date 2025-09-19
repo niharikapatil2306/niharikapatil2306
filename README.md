@@ -59,7 +59,7 @@ Currently pursuing my **Master's in Machine Learning** while developing cutting-
 
 *Powered by endless cups of coffee and a love for elegant code* ☕
 
-## Current Research
+## Research
 
 **ThermoStable RuBisCO Protein Engineering** *(May 2025 - Sept 2025)*
 - Developed the first systematic AI framework integrating diffusion models and evolutionary insights from extremophile proteins to generate thermostable RuBisCO variants for climate-adaptive agriculture
