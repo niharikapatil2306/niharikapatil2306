@@ -45,7 +45,9 @@ I built a pastry shop website partly because I’m obsessed with desserts—codi
   
 *MSc Machine Learning in Science • University of Nottingham*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=5000&pause=1000&color=ffc0cb&center=true&vCenter=true&width=500&lines=Building+intelligent+applications;Crafting+seamless+user+experiences;Exploring+AI-driven+solutions;Protein+engineering+researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=5000&pause=1000&color=ffc0cb&center=true&vCenter=true&width=500&lines=Building+intelligent+applications;Crafting+seamless+user+experiences;Exploring+AI-driven+solutions" alt="Typing SVG" />
+
+
 
 </div>
 
@@ -54,6 +56,8 @@ I built a pastry shop website partly because I’m obsessed with desserts—codi
 ## About Me
 
 Currently pursuing my **Master's in Machine Learning** while developing cutting-edge AI solutions that bridge complex algorithms with intuitive user experiences. My work spans from **protein engineering research** to **autonomous systems**, with a passion for creating applications that solve real-world problems.
+
+*Powered by endless cups of coffee and a love for elegant code* ☕
 
 ## Current Research
 
