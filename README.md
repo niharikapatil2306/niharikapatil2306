@@ -37,7 +37,7 @@ I built a pastry shop website partly because I’m obsessed with desserts—codi
 [niharikapatil2306@gmail.com](mailto:niharikapatil2306@gmail.com)
 -->
 
-<div align="center">
+<!-- <div align="center -->
   
 # Niharika Patil
 **Machine Learning Engineer** | *MSc Machine Learning in Science @ University of Nottingham*
