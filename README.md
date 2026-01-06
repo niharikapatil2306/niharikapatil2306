@@ -83,7 +83,7 @@ I built a pastry shop website partly because I’m obsessed with desserts—codi
 ## Connect With Me
 
 **Email**: niharikapatil2306@gmail.com  
-**LinkedIn**: [Niharika Patil](https://linkedin.com/in/niharika-patil-45aa13323)  
+**LinkedIn**: [Niharika Patil](https://www.linkedin.com/in/niharikapatil2310/)  
 **Medium**: [@niharika.patil](https://medium.com/@niharika.patil)
 
 ---
