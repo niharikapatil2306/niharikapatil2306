@@ -49,8 +49,6 @@ I built a pastry shop website partly because I’m obsessed with desserts—codi
 
 <!-- </div> -->
 
----
-
 ## About Me
 
 **Machine Learning engineer** with Masters in Machine Learning in Science from the University of Nottingham, UK. I love crafting **interactive, user-friendly applications**. My passion lies at the intersection of code, AI, and great user experiences.
