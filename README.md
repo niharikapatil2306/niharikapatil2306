@@ -92,8 +92,6 @@ I built a pastry shop website partly because I’m obsessed with desserts—codi
 
 *coffee going cold as i code*
 
-<img src="https://github-readme-stats.vercel.app/api?username=niharikapatil2306&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=ffc0cb&icon_color=ffc0cb&text_color=ffffff" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niharikapatil2306&layout=compact&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=ffc0cb&text_color=ffffff" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niharikapatil2306&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=ffc0cb&icon_color=ffc0cb&text_color=ffffff)
 
 </div>
