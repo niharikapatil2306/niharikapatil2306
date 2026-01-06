@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!--
 # Hii, I’m Niharika Patil! 👋
 
-I’m a **Machine Learning enthusiast** and a **full-stack developer** pursuing an MSc in Machine Learning in Science at the University of Nottingham, UK. I love crafting **interactive, user-friendly applications**. My passion lies at the intersection of code, AI, and great user experiences.
+I’m a **Machine Learning engineer** with a Masters in Machine Learning in Science from the University of Nottingham, UK. I love crafting **interactive, user-friendly applications**. My passion lies at the intersection of code, AI, and great user experiences.
 
 ## 🔧 What I Work With
 - **Languages**: JavaScript (ES6+), Python, Java, HTML/CSS
@@ -41,9 +41,7 @@ I built a pastry shop website partly because I’m obsessed with desserts—codi
   
 # Niharika Patil
   
-**Machine Learning Engineer & Full-Stack Developer**
-  
-*MSc Machine Learning in Science • University of Nottingham*
+**Machine Learning Engineer** | *MSc Machine Learning in Science @ University of Nottingham*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=5000&pause=1000&color=ffc0cb&center=true&vCenter=true&width=500&lines=Building+intelligent+applications;Crafting+seamless+user+experiences;Exploring+AI-driven+solutions" alt="Typing SVG" />
 
@@ -55,53 +53,24 @@ I built a pastry shop website partly because I’m obsessed with desserts—codi
 
 ## About Me
 
-Currently pursuing my **Master's in Machine Learning** while developing cutting-edge AI solutions that bridge complex algorithms with intuitive user experiences. My work spans from **protein engineering research** to **autonomous systems**, with a passion for creating applications that solve real-world problems.
+**Machine Learning engineer** with Masters in Machine Learning in Science from the University of Nottingham, UK. I love crafting **interactive, user-friendly applications**. My passion lies at the intersection of code, AI, and great user experiences.
 
 *Powered by endless cups of coffee and a love for elegant code* ☕
 
 ## Research
 
-**ThermoStable RuBisCO Protein Engineering** *(May 2025 - Sept 2025)*
-- Developed the first systematic AI framework integrating diffusion models and evolutionary insights from extremophile proteins to generate thermostable RuBisCO variants for climate-adaptive agriculture
-- Assembled and curated high-quality structural datasets of over 36,000 annotated RuBisCO sequences and more than 17,000 extremophilic proteins, enabling robust multi-task learning for thermal stability, secondary structure accuracy, and sequence realism
-- Designed transformer-based architectures that incorporate atomic-level features and BLOSUM-guided evolutionary constraints, preserving hotosynthetic catalytic activity at elevated temperatures
-- Achieved significant performance: generated variants validated with COFACTOR and AlphaFold, showing TM-scores of 0.91–0.98, robust catalytic activity, and improved thermal resilience at 40–60°C
+**ThermoStable Protein Engineering** - Developed the first systematic AI framework combining diffusion models with evolutionary insights to generate heat-resistant RuBisCO variants for climate-adaptive agriculture. Achieved TM-scores of 0.91–0.98 validated via AlphaFold.
+
 ## Featured Projects
 
 ### Machine Learning & AI
-**Autonomous Driving System**
-- Built deep learning pipeline with CNNs (EfficientNet, PilotNet) for real-time vehicle control
-- Deployed on Raspberry Pi 4 with 180-200ms latency across 12 driving scenarios
-- Achieved 35.8% improvement in prediction accuracy (MSE: 0.0061)
+**Autonomous Driving System** | CNN-based steering control for PiCar-V | PyTorch, Raspberry Pi | 35% accuracy improvement, 180ms latency |
 
-**Text-to-SQL RAG Assistant**
-- Developed AI assistant translating natural language to executable SQL queries
-- Built RAG pipeline using LangChain and Mistral-7B LLM with FAISS vector store
-- Achieved 95%+ accuracy in query generation, eliminating manual SQL writing
+**Text-to-SQL RAG Assistant** | Natural language → SQL queries | LangChain, Mistral-7B, FAISS | 95%+ accuracy |
 
-**SMOTE Optimization on Apache Spark**
-- Engineered distributed pipelines for class imbalance on credit card fraud dataset
-- Implemented K-means clustering approach on Databricks with Apache Spark
-- Delivered 91.49% balanced accuracy while reducing execution time by 49%
+**SMOTE Optimization on Apache Spark** | Distributed SMOTE for extreme class imbalance (578:1) | PySpark, Databricks, Spark | 91.5% balanced accuracy, 49% faster |
 
-### Frontend Development
-**DessertLove - Pastry Shop Platform**
-- React & Firebase web application with online ordering and reservation system
-- Increased page load speed by 40% through lazy loading and code splitting
-- Optimized checkout process for 25% faster completion based on user testing
-
-**BlinkChat - Real-Time Communication**
-- Scalable chat application supporting 10+ concurrent users across multiple rooms
-- Minimized message delivery latency to under 200ms through targeted optimization
-- Reduced bundle size by 35% migrating from CRA to Vite with Tree Shaking
-
-### Financial Technology
-**Stock Portfolio Management System**
-- Python application processing daily financial data from 50+ stocks
-- Built analysis engine computing beta, Sharpe ratio, and VaR with 95% accuracy
-- Delivered insights enabling 15% reduction in portfolio risk for hypothetical scenarios
-
-## Technical Arsenal
+## What I Work With
 
 **Core Languages**
 - Python • JavaScript (ES6+) • TypeScript • SQL • R • Java
@@ -129,15 +98,6 @@ Currently pursuing my **Master's in Machine Learning** while developing cutting-
 - Developed SageMaker models achieving 85%+ accuracy for sentiment analysis
 - Integrated AWS Rekognition improving workflow efficiency by 25%
 
-## Education
-
-**MSc Machine Learning in Science** | *University of Nottingham* *(2024-Present)*
-- Grade: Merit
-- Modules: Applied Statistics, Big Data, Quantum Computing, Scientific Programming
-
-**BE AI and Machine Learning** | *Savitribai Phule Pune University* *(2020-2024)*
-- GPA: 4.41/5.0
-- Published: "AI-Driven Talent Matching" in IJCRT
 
 ## Connect With Me
 
