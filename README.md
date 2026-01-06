@@ -59,8 +59,6 @@ I built a pastry shop website partly because I’m obsessed with desserts—codi
 **ThermoStable Protein Engineering** - Developed the first systematic AI framework combining diffusion models with evolutionary insights to generate heat-resistant RuBisCO variants for climate-adaptive agriculture. Achieved TM-scores of 0.91–0.98 validated via AlphaFold.
 
 ## Featured Projects
-
-### Machine Learning & AI
 **Autonomous Driving System** | CNN-based steering control for PiCar-V | PyTorch, Raspberry Pi | 35% accuracy improvement, 180ms latency |
 
 **Text-to-SQL RAG Assistant** | Natural language → SQL queries | LangChain, Mistral-7B, FAISS | 95%+ accuracy |
@@ -92,7 +90,7 @@ I built a pastry shop website partly because I’m obsessed with desserts—codi
 
 <div align="center">
 
-*coffe going cold as i code*
+*coffee going cold as i code*
 
 <img src="https://github-readme-stats.vercel.app/api?username=niharikapatil2306&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=ffc0cb&icon_color=ffc0cb&text_color=ffffff" />
 
