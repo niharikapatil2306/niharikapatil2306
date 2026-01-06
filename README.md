@@ -40,7 +40,6 @@ I built a pastry shop website partly because I’m obsessed with desserts—codi
 <div align="center">
   
 # Niharika Patil
-  
 **Machine Learning Engineer** | *MSc Machine Learning in Science @ University of Nottingham*
 
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=5000&pause=1000&color=ffc0cb&center=true&vCenter=true&width=500&lines=Building+intelligent+applications;Crafting+seamless+user+experiences;Exploring+AI-driven+solutions" alt="Typing SVG" /> -->
